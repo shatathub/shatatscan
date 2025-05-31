@@ -1,5 +1,5 @@
 <h1 align="center">ShatatScan</h1>
-<p align="center">Shatat Blockchain Explorer for inspecting and analyzing EVM Chain.</p>
+<p align="center">Shatat Blockchain Explorer for inspecting and analyzing SVM Chain.</p>
 <div align="center">
 
 [![ShatatScant](https://github.com/shatat/ShatatScan)]([[https://github.com/blockscout/blockscout/action](https://github.com/shatat/ShatatScan)](https://github.com/shatat/ShatatScan))
