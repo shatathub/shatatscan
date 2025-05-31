@@ -8,7 +8,7 @@
 </div>
 
 
-ShatatScan provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Shatat Virtual Machine) blockchain. This includes Shatat Mainnet.
+ShatatScan provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on SVM (Shatat Virtual Machine) blockchain. This includes Shatat Mainnet.
 
 See our [project documentation](https://docs.shatat.ir/) for detailed information and setup instructions.
 
